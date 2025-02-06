@@ -8,7 +8,8 @@ public class ByteRange {
 		x++;
 		x++;
 		System.out.println(x);
-	} // nice explanation
+		System.out.println(--x);
+	} // nice explanation sir
 //when you increment the value , it will increment to its minimum value of -128  ,
 	//and thus incrementing it again will make it -127
 }
