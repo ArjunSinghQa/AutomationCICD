@@ -13,13 +13,13 @@ public class ArraywithMethodInput {
 			System.out.println(min);
 		
 		
-	
+	//min number 
 		 
 	 }
 
 	public static void main(String[] args) {
 		
-		int a[] = {1,3,4,6,8};
+		int a[] = {1,3,4,6,8,9,0};
 		mincal(a);
 	}
 
